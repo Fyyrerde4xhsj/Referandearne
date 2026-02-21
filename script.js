@@ -614,7 +614,7 @@ const App = {
 function showAdAndContinue() {
     try {
         // Trigger popunder (most pop ads trigger on user click)
-        window.open('https://omg10.com/4/10113191');
+        window.open('<script src="https://pl28730303.effectivegatecpm.com/95/25/f2/9525f25320dd217bed394ad3267081d5.js"></script>');
     } catch (e) {
         console.log("Ad blocked");
     }
